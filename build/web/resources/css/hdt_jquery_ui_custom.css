@@ -1,0 +1,83 @@
+/* hdt_jquery_ui_custom.css - jQuery UI Elements Custom Styles
+ *
+ * RS01042010
+ *
+ */
+ 
+ /* HDT related */
+div#dimensioning-par-radiobtn .ui-button {
+    text-align: left;
+}
+
+
+/* Generic */
+.radio-list .ui-widget {
+    font-size: 0.7em;
+}
+
+.ui-button-icon-only .ui-button-text {
+    padding: 0.35em;
+}
+
+.ui-button {   
+    font-size: inherit;
+    margin-left: -1px;
+}
+
+.ui-menu  li {
+    font-size: 0.6em;
+}
+
+.ui-widget .ui-widget {
+    font-size: 0.7em;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0;
+    padding-left: 8px;
+    font-size: 0.8em;
+    font-weight: bold;
+    
+}
+
+/* Disable the "x" in UI dialog. */
+.ui-dialog-titlebar-close {
+    display: none ; 
+}
+
+.ui-dialog .ui-dialog-content {
+    padding-left: 8px;
+    padding-right: 8px;
+    min-height: 30px;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+    padding: 0;
+    margin: 0;
+}
+
+.ui-menu  li{
+    font-size: 0.6em;
+}
+
+.ui-widget .ui-widget {
+    font-size: 0.7em;
+}
+
+.ui-widget {
+    font-size: inherit;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0;
+    
+}
+
+.ui-button-icon-only .ui-button-text {
+    padding: 0.35em;
+}
+
+.ui-button {
+    font-size: inherit;
+    margin-left: -1px;
+}

@@ -1,0 +1,327 @@
+#hideSystemMessage{
+    
+    width: 23px;
+    height: 23px;
+    border-radius: 3px 3px 3px 3px;
+    
+}
+th.center { text-align: center;}
+
+td.center{
+  
+    text-align: center;
+    
+    
+}
+.paddingLR45{
+    
+    padding-right:  45px;
+    padding-left: 45px;
+}
+.paddingLR35{
+    
+    padding-right:  35px;
+    padding-left: 35px;
+}
+
+
+.paddingLR25{
+    
+    padding-right:  25px;
+    padding-left: 25px;
+}
+
+.paddingLR15{
+    
+    padding-right: 15px;
+    padding-left: 15px;
+    
+    
+}
+
+
+.tableColWidth50{
+    
+    width: 50px;
+    
+}
+
+
+input.width80{
+    
+    width: 80px;
+}
+
+input.width90{
+    
+    width: 90px;
+}
+
+
+input.width100 {
+    
+   width: 100px;
+    
+}
+
+input.width200{
+    
+    width:200px;
+}
+
+
+input.width300 {
+    
+    width: 300px;
+}
+
+
+
+.tableColWidth100{
+    
+    width: 100px;
+    
+}
+
+.tableColWidth125{
+    
+    width: 125px;
+    
+}
+.tableColWidth150{
+    
+    width: 150px;
+    
+}
+
+.tableColWidth175{
+    
+    width: 175px;
+    
+}
+
+
+.tableColWidth200{
+    
+    width: 200px;
+    
+}
+
+.tableColWidth300{
+    
+    width: 300px;
+    
+}
+
+.tableColWidth400{
+    
+    width: 400px;
+    
+}
+
+.tableColWidth500{
+    
+    width: 500px;
+    
+}
+
+
+.no_border{
+    
+   
+   border-top:0px solid #ddd;
+    
+}
+.tableWidthPercent50{
+
+        width: 50%;
+    
+}
+
+.tableWidthPercent75 {
+    width: 75%;
+}
+
+.tableWidthPercent100 {
+    width: 100%;
+    
+}
+.tableWidthPercent40{
+
+        width: 40%;
+    
+}
+.tableWidthPercent30{
+
+        width: 30%;
+    
+}
+
+.tableWidthPercent20{
+
+        width: 20%;
+    
+}
+
+
+.tableWidthPercent15{
+
+        width: 15%;
+    
+}
+
+
+.tableWidthPercent10{
+
+        width: 10%;
+    
+}
+
+.tableWidthPercent5{
+    
+    width: 5%;
+}
+
+
+
+
+
+.mouseovershow{
+    
+     background-color: red;    
+}
+.error{
+    font-weight: bold;
+    color: red;
+}
+.hide {display:none;}
+ .hide:hover {background-color: blueviolet;}
+ .inline {display: inline-block; padding-left: 0px; padding-right: 0px; background-color: lightskyblue;}
+ .inline:hover > ul {background-color: blue;
+                       display: block; 
+                       position: absolute; 
+                       list-style-type: none;
+                       padding-left: 6px; padding-bottom: 2px;padding-right: 8px; padding-top: 2px;
+                       clear: right;  
+                         }
+                      
+ .inline:hover > ul > li:hover > ul , .inline:hover > ul > li:hover > ul > li:hover >ul  {
+                       background-color: blue;
+                       display: block;
+                       position: relative; 
+                       list-style-type: none;
+                       padding-left: 10px; padding-bottom: 2px;padding-right: 8px; padding-top: 2px;
+                       float: right;
+                       clear: right;
+                       
+                          
+                      }     
+                      
+ .inline:hover > ul a { text-decoration: none;}
+ .inline:hover > ul a:hover { background-color: blueviolet;}
+  ul.hide > li a {color: black;} 
+
+
+.odd {
+        background-color: #ffffff;  
+        padding: 10px;
+      }
+ .even {
+        background-color: #ffffff;
+        padding: 10px;
+ }
+ a {
+     text-decoration: none;
+ }
+ div {
+        padding-top: 0px; 
+        padding:0px;
+ }
+ #options_tab {height:30px; background-color: buttonface; border-radius: 3px;}
+ 
+ body {
+        background-color: white; 
+        padding: 0px; 
+        margin: 0px;
+     
+ }
+ 
+ .hidden {
+     display: none;
+     
+ }
+ 
+ th{
+     text-align: left;
+ }
+ tr {
+     
+     text-align: left;
+ }
+ 
+ .textcenter{
+     
+     text-align: center;
+ }
+ 
+ .left {
+     float: left;
+     background-color: whitesmoke;
+ }
+ .right {
+     float: right;
+     background-color: whitesmoke;
+ }
+ 
+ .shadow {
+     padding: 10px;
+     background-color:  darkgrey;
+     
+     
+    
+ }
+ 
+ .sites{
+     
+     float:left;
+     width: 45%;
+     padding-left: 10px;
+    
+ }
+ 
+ input.green{
+    
+    background: lightgrey; 
+
+    font-weight: bold;
+    
+    border: 1px solid #cd0a0a;
+}
+ 
+.disabled {
+    
+     cursor: not-allowed;
+     background-color: #eeeeee;
+}
+ 
+.overflow700{
+    
+    height: 700px;
+    overflow: auto;
+    padding: 20px;
+    
+}
+
+.overflow500{
+    
+    height: 500px;
+    overflow: auto;
+    padding: 20px;
+}
+
+.overflow800{
+    
+    height: 800px;
+    overflow: auto;
+    padding: 20px;
+}

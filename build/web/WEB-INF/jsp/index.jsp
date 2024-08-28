@@ -1,0 +1,30 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Hardware Dimensioning Tool 2.0</title>
+        <style type="text/css">
+            .hide {display:none;}
+            
+        </style>
+    </head>
+
+    <body>
+        <p>
+            <p>${message}</p>
+            This is the start of the project
+            
+        </p>
+        <a href="welcome.htm">Click Here</a>
+        <br/>
+        <a href="administrator.htm">Backend</a>
+        <br />
+        <a href="welcome.htm">Frontend</a>
+        
+        
+        
+    </body>
+</html>

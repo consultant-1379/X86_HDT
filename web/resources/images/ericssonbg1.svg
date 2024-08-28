@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" version="1.0" width="100%"   height="100%"  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+
+    <linearGradient id="myLinearGradient1"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%"
+                    spreadMethod="pad">
+
+      <stop offset="0%"   stop-color="#65b847" stop-opacity="1"/>
+      <stop offset="7%"   stop-color="#33a281" stop-opacity="1"/>
+      <stop offset="20%"   stop-color="#018bba" stop-opacity="1"/>
+	  <stop offset="35%"   stop-color="#8e1d63" stop-opacity="1"/>
+      <stop offset="43%" stop-color="#b81c4b" stop-opacity="1"/>
+	  <stop offset="50%" stop-color="#e21a33" stop-opacity="1"/>
+	  <stop offset="57%" stop-color="#b81c4b" stop-opacity="1"/>
+	  <stop offset="65%" stop-color="#8e1d63" stop-opacity="1"/>
+	  <stop offset="80%" stop-color="#018bba" stop-opacity="1"/>
+	  <stop offset="93%" stop-color="#33a281" stop-opacity="1"/>
+	  <stop offset="100%" stop-color="#65b847" stop-opacity="1"/>
+	  
+    </linearGradient>
+  </defs>
+
+
+  <rect width="100%" height="10px" style="fill:url('#myLinearGradient1');" />
+</svg>
